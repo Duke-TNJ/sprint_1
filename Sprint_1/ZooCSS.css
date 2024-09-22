@@ -1,0 +1,113 @@
+.home-header {
+    text-align: center;
+}
+
+
+/*Asian and African Animals CSS Below*/
+html{
+    background-color: darkgray;
+}
+.Intro{
+    font-size: 25px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+/*.Giant_panda{
+    border-radius: 25px;
+    border: 2px solid#73AD21;
+}*/
+.Tiger h1{
+    text-align: center;
+}
+.Tiger p{
+    font-size: 25px;
+    float: left;
+}
+.Tiger img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.King_cobra h1{
+    text-align: center;
+}
+.King_cobra p{
+    font-size: 25px;
+    float: left;
+}
+.King_cobra img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Snow_leopard h1{
+    text-align: center;
+}
+.Snow_leopard p{
+    font-size: 25px;
+    float: left;
+}
+.Snow_leopard img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Giant_panda h1{
+    text-align: center;
+}
+.Giant_panda p{
+    font-size: 25px;
+    float: left;
+}
+.Giant_panda img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Panda_button{
+    float: right;
+}
+.Panda_button:hover{
+    background-color: black;
+    color: white;
+}
+.Tiger_button{
+    float: right;
+}
+.Tiger_button:hover{
+    background-color: black;
+    color: white;
+}
+.Snow_leopard_button{
+    float: right;
+}
+.Snow_leopard_button:hover{
+    background-color: black;
+    color: white;
+}
+.King_cobra_button{
+    float: right;
+}
+.King_cobra_button:hover{
+    background-color: black;
+    color: white;
+}
+/*End of Asian and African Animals*/
