@@ -1,0 +1,120 @@
+h1 {
+    text-align: center;
+}
+
+html{
+    background-color: darkgray;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+
+.intro p{
+    font-size: 25px;
+}
+.baldeagle p{
+    font-size: 25px;
+    float: left;
+}
+
+.baldeagle img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.brownbear p{
+    font-size: 25px;
+    float: left;
+}
+
+.brownbear img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.jaguar p{
+    font-size: 25px;
+    float: left;
+}
+
+.jaguar img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.rattlesnake p{
+    font-size: 25px;
+    float: left;
+}
+
+.rattlesnake img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+
+.flamingo p{
+    font-size: 25px;
+    float: left;
+}
+
+.flamingo img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.sealion p{
+    font-size: 25px;
+    float: left;
+}
+
+.sealion img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.mountainlion p{
+    font-size: 25px;
+    float: left;
+}
+
+.mountainlion img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+
+.iguana p{
+    font-size: 25px;
+    float: left;
+}
+
+.iguana img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
