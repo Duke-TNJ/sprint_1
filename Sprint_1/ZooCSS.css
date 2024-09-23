@@ -110,4 +110,80 @@ li a:hover{
     background-color: black;
     color: white;
 }
+.Cheetah h1{
+    text-align: center;
+}
+.Cheetah p{
+    font-size: 25px;
+    float: left;
+}
+.Cheetah img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Rhinocerous h1{
+    text-align: center;
+}
+.Rhinocerous p{
+    font-size: 25px;
+    float: left;
+}
+.Rhinocerous img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Elephant h1{
+    text-align: center;
+}
+.Elephant p{
+    font-size: 25px;
+    float: left;
+}
+.Elephant img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Lion h1{
+    text-align: center;
+}
+.Lion p{
+    font-size: 25px;
+    float: left;
+}
+.Lion img{
+    height: 200px;
+    width: 200px;
+    float: right;
+}
+.Cheetah_button{
+    float: right;
+}
+.Cheetah_button:hover{
+    background-color: black;
+    color: white;
+}
+.Rhinocerous_button{
+    float: right;
+}
+.Rhinocerous_button:hover{
+    background-color: black;
+    color: white;
+}
+.Elephant_button{
+    float: right;
+}
+.Elephant_button:hover{
+    background-color: black;
+    color: white;
+}
+.Lion_button{
+    float: right;
+}
+.Lion_button:hover{
+    background-color: black;
+    color: white;
+}
 /*End of Asian and African Animals*/
